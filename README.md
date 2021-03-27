@@ -38,11 +38,8 @@ A aplicação já está totalmente funcional mas grande parte do seu código est
 
 ```bash
 # Abra um terminal e copie este repositório com o comando
-git clone https://github.com/martins-rafael/ignite-componentes
+git clone https://github.com/rfsants001/watchme
 # ou use a opção de download.
-
-# Entre na pasta com 
-cd ignite-componentes
 
 # Instale as dependências
 yarn install
